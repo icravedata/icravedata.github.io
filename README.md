@@ -1,6 +1,6 @@
 **Aspiring Data Analyst**
 
-__Experience__
+__Experience:__
 
 - Completion of 'Introduction to Data & SQL Course' with Code First Girls
 - Use of IBM SPSS Statistics within BSc and MSc studies
