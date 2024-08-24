@@ -8,9 +8,13 @@ description: A portfolio in development...
 
 minima:
     social_links:
+
+
     github_username: icravedata
     instagram_username: icravedata
 
 #build settings
 #show_downloads: false
 theme: minima
+plugins:
+  - jekyll-feed
