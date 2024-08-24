@@ -8,8 +8,8 @@ description: A portfolio in development...
 
 minima:
     social_links:
-    - { platform: github,  user_url: "https://github.com/icravedata" }
-    - { platform: instagram, user_url: "https://instagram.com/icravedata" }
+    github_username: icravedata
+    instagram_username: icravedata
 
 #build settings
 #show_downloads: false
