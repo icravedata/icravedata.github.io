@@ -3,7 +3,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: i crave data
-logo: ![](assets/images/logo.png)
+#logo: ![](assets/images/logo.png)
 description: portfolio in development...
 #show_downloads: false
 theme: jekyll-theme-minimal
