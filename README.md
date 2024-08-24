@@ -1,4 +1,4 @@
-### Aspiring Data Analyst
+# Aspiring Data Analyst
 
 ## Experience
 
@@ -7,4 +7,4 @@
 - A lifelong passion for data visualisation
 - Many hours spent writing and modifying HTML/CSS on Tumblr as a teenager
 
-# More coming soon...
+### More coming soon...
