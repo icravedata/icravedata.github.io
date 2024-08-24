@@ -1,5 +1,3 @@
-# icravedata.github.io
-
 ### Aspiring Data Analyst
 
 ### Experience
