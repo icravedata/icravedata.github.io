@@ -1,4 +1,4 @@
-# Aspiring Data Analyst
+# **Aspiring Data Analyst**
 
 ## Experience
 
