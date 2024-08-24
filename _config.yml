@@ -14,5 +14,3 @@ minima:
 #build settings
 #show_downloads: false
 theme: minima
-plugins:
-  - jekyll-feed
